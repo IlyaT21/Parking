@@ -1,0 +1,20 @@
+C:\Users\Ilija\source\repos\Parking\Parking\obj\Debug\Parking.csprojAssemblyReference.cache
+C:\Users\Ilija\source\repos\Parking\Parking\obj\Debug\Parking.Form1.resources
+C:\Users\Ilija\source\repos\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Users\Ilija\source\repos\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.cache
+C:\Users\Ilija\source\repos\Parking\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\source\repos\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\Ilija\source\repos\Parking\Parking\bin\Debug\Parking.exe
+C:\Users\Ilija\source\repos\Parking\Parking\bin\Debug\Parking.pdb
+C:\Users\Ilija\source\repos\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\Ilija\source\repos\Parking\Parking\obj\Debug\Parking.pdb
+C:\Users\Ilija\Desktop\Ilija Toskovic 24017 - Parking\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\Ilija\Desktop\Ilija Toskovic 24017 - Parking\Parking\Parking\bin\Debug\Parking.exe
+C:\Users\Ilija\Desktop\Ilija Toskovic 24017 - Parking\Parking\Parking\bin\Debug\Parking.pdb
+C:\Users\Ilija\Desktop\Ilija Toskovic 24017 - Parking\Parking\Parking\obj\Debug\Parking.csprojAssemblyReference.cache
+C:\Users\Ilija\Desktop\Ilija Toskovic 24017 - Parking\Parking\Parking\obj\Debug\Parking.Form1.resources
+C:\Users\Ilija\Desktop\Ilija Toskovic 24017 - Parking\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Users\Ilija\Desktop\Ilija Toskovic 24017 - Parking\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.cache
+C:\Users\Ilija\Desktop\Ilija Toskovic 24017 - Parking\Parking\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Desktop\Ilija Toskovic 24017 - Parking\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\Ilija\Desktop\Ilija Toskovic 24017 - Parking\Parking\Parking\obj\Debug\Parking.pdb
